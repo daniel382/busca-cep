@@ -7,4 +7,4 @@ Devido ao fator tempo, foi necessário o desenvolvimento desse pequeno App para 
 do trabalho na empresa.
 
 ##
-Desenvolvido por [Daniel Lucas](daniellucas382@gmail.com)
+Desenvolvido por [Daniel Lucas](mailto:daniellucas382@gmail.com)
